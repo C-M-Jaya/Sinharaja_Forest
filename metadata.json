@@ -1,0 +1,6 @@
+{
+  "name": "Scolopendra hardwickei — Sinharaja Natural History Monograph",
+  "description": "An interactive biomechanical locomotion simulation and natural history exhibition monograph dedicated to Scolopendra hardwickei, Sri Lanka's banded giant centipede of the Sinharaja Rainforest.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
